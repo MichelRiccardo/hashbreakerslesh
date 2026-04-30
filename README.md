@@ -54,3 +54,4 @@ Sistema Linux (recomendado: Parrot OS ou Kali Linux)
 ```bash
 sudo apt update
 sudo apt install hashcat wordlists -y
+https://github.com/MichelRiccardo/hashbreakerslesh.git
