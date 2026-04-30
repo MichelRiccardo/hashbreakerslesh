@@ -1,37 +1,55 @@
 # 🔥 HashBreakerSlesh PRO
 
-Ferramenta automatizada de cracking de hashes para auditoria de senhas.
-
-Desenvolvida para uso em testes de segurança (pentest), ela detecta automaticamente múltiplos tipos de hash, separa, executa ataques e gera relatórios.
+Ferramenta automatizada de cracking de hashes para auditoria de segurança (pentest)
 
 ---
 
-## 🧠 Funcionalidades
+## 🧠 Descrição
 
-- 🔍 Detecção automática de hashes
-- 📂 Separação por tipo
-- ⚡ Execução automática com Hashcat
-- 🔥 Suporte a:
-  - MD5
-  - SHA1
-  - SHA256
-  - SHA512
-  - NTLM
-  - bcrypt
-- 📊 Relatório de senhas quebradas
-- 🧠 Pipeline completo:
-  - Wordlist
-  - Rules
-  - Hybrid
-  - Mask
+O **HashBreakerSlesh PRO** automatiza o processo de análise e quebra de hashes, incluindo:
+
+- detecção automática de tipos de hash  
+- separação e organização dos dados  
+- execução com Hashcat  
+- geração de relatórios finais  
+
+---
+
+## ⚙️ Funcionalidades
+
+🔍 Detecção automática de hashes  
+📂 Separação por tipo de hash  
+⚡ Execução automatizada com Hashcat  
+
+---
+
+### 🔥 Suporte a:
+
+- MD5  
+- SHA1  
+- SHA256  
+- SHA512  
+- NTLM  
+- bcrypt  
+
+---
+
+📊 Relatório de resultados (senhas quebradas)
+
+---
+
+## 🧠 Pipeline de ataque
+
+- Wordlist attack  
+- Rule-based attack  
+- Hybrid attack  
+- Mask attack  
 
 ---
 
 ## ⚙️ Requisitos
 
-Sistema baseado em Linux (recomendado: Parrot OS ou Kali Linux)
-
-Instalar dependências:
+Sistema Linux (recomendado: Parrot OS ou Kali Linux)
 
 ```bash
 sudo apt update
