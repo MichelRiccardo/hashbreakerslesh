@@ -22,7 +22,9 @@ O **HashBreakerSlesh PRO** automatiza o processo de análise e quebra de hashes,
 ⚡ Execução automatizada com Hashcat  
   
   Visualizar Senha
+  
   EXEMPLO:
+  
   cat ~/DIRETORIO/SEU_USER/PASTA/*/sha1_cracked.txt
   cat ~/DIRETORIO/SEU_USER/PASTA/*/md5_cracked.txt
   cat ~/DIRETORIO/SEU_USER/PASTA/*/sha256_cracked.txt
