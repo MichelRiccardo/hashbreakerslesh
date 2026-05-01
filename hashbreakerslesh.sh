@@ -1,4 +1,3 @@
-  GNU nano 8.4                                                              /home/maik/pentest/hashbreakerslesh1.sh                                                                           
 #!/bin/bash
 
 # =========================================
